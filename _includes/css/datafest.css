@@ -1,0 +1,15 @@
+
+.navbar-brand>img {
+  float: left;  
+  height: 100%;
+  width: auto;
+}
+
+.content {
+  padding: 100px 0 0 0;
+}
+
+.sponsors>li>img {
+  height: 80px;
+  width: auto;
+}

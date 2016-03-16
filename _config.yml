@@ -1,0 +1,21 @@
+# Site settings
+title: "DataFest"
+year: 2016
+location: "Oregon"
+contact-name: "Charlotte Wickham"
+contact-email: wickhamc@stat.oregonstate.edu
+url: https://datafestoregon.github.io
+description: "April 15th - 17th 2016 @ Oregon State University"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#FFFFFF'
+  text: '#333333'
+  links: '#219ab3'
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+
+# Build settings
