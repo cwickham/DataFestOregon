@@ -8,9 +8,9 @@ group: "navigation"
 # Thank you to the sponsors for DataFest Oregon 2016
 
 <ul class = "list-inline sponsors">
-  <li><img src = "/img/googlelogo_color_360x124dp.png" alt = "google"/></li>
-  <li><img src = "/img/asa.png" alt = "American Statistical Association" /></li>
-  <li><img src = "/img/datacamp.png" alt = "Datacamp" /></li>
+  <li><img src = "{{ site.baseurl }}/img/googlelogo_color_360x124dp.png" alt = "google"/></li>
+  <li><img src = "{{ site.baseurl }}/img/asa.png" alt = "American Statistical Association" /></li>
+  <li><img src = "{{ site.baseurl }}/img/datacamp.png" alt = "Datacamp" /></li>
 </ul>
 
 ## Become a Sponsor
