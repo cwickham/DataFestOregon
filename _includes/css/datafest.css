@@ -13,3 +13,13 @@
   height: 80px;
   width: auto;
 }
+
+.page-content ul {
+  font-size: 14pt;
+  
+}
+
+.page-content p {
+  margin-bottom: 10px;
+  font-size: 14pt;
+}
