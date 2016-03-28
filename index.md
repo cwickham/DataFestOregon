@@ -4,7 +4,7 @@ layout: home
 
 # About DataFest
 
-The [ASA DataFest](https://www.amstat.org/education/datafest/) is a nationwide data analysis competition where teams of up to five students attack a complex dataset provided by an industry partner.
+The [American Statistical Association DataFest](https://www.amstat.org/education/datafest/) is a nationwide data analysis competition where teams of up to five students attack a complex dataset provided by an industry partner.
 
 The mission of DataFest is to expose students to challenging questions with immediate real-world significance that can be addressed through data analysis. By working in teams, students with varying skill sets will combine their efforts and expand their collective data analysis horizons. Interaction among students, as well as with outside consultants will promote the sense that data analysis is a dynamic, engaging, and vibrant part of our society, as well as a realistic, practical, and fun career path.
 
@@ -30,7 +30,7 @@ Shhhhh...it's a secret!  The data will remain a surprise until the opening event
 
 The rules are very simple:
 
-* No more than five students members per team.
+* At least three and no more than five students per team.
 * Team members can come and go as they please but all work has to be done on-site. A steady supply of food, beverage, and candy make it more inviting to stay.
 * It’s a competition, but a friendly one, so collaboration between teams is not only allowed but highly encouraged. Official DataFest consultants (grad students, faculty, etc.) will also be around throughout the weekend to help with any questions you might have. However you can’t have outside help.
 

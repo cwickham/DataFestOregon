@@ -1,13 +1,13 @@
 ---
 layout: one-col
 title: "Information for Students"
-shorttitle: "Get Registered"
+shorttitle: "Register!"
 group: "navigation"
 ---
   
 # How do I get my team registered?
-  
-Contact the organizer at your institution:
+
+Form a team of between two and five students.  Once you have formed your team, contact the organizer at your institution:
   
   * **Oregon State University** Charlotte Wickham [wickhamc@stat.oregonstate.edu](mailto:wickhamc@stat.oregonstate.edu)
   * **Reed College** Andrew Bray [abray@reed.edu](mailto:abray@reed.edu) 
