@@ -8,7 +8,7 @@ The [ASA DataFest](https://www.amstat.org/education/datafest/) is a nationwide d
 
 The mission of DataFest is to expose students to challenging questions with immediate real-world significance that can be addressed through data analysis. By working in teams, students with varying skill sets will combine their efforts and expand their collective data analysis horizons. Interaction among students, as well as with outside consultants will promote the sense that data analysis is a dynamic, engaging, and vibrant part of our society, as well as a realistic, practical, and fun career path.
 
-The Oregon event is hosted at Oregon State Univeristy but welcomes teams from any school in Oregon.
+The Oregon event is hosted at Oregon State University but welcomes teams from any school in Oregon.
 
 Start: Friday, April 15th, 2016, 7:30 pm  
 Finish: Sunday, April 17th, 2016, 4 pm  
