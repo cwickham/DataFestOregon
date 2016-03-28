@@ -1,7 +1,7 @@
 ---
 layout: one-col
 title: "Information for Students"
-shorttitle: "Get Involved"
+shorttitle: "Get Registered"
 group: "navigation"
 ---
   
