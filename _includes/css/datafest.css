@@ -11,9 +11,12 @@
 
 .sponsors>li>img {
   height: 80px;
+  margin: 20px 0 0 0 ;
   width: auto;
 }
-
+.sponsors a {
+  color: black;
+}
 .page-content ul {
   font-size: 14pt;
   
