@@ -28,6 +28,7 @@ midnight: DataFest closes its doors for the night.
 ### Sunday, April 17th
 8:00 am: Doors re-open  
 10:30 am: Brunch  
-2 pm: Presentations and judging begin  
-4 pm: Winners Showcase & Awards   
+2 pm: Presentations and judging begin   
+3 pm: Judges deliberate + group photo  
+3:15pm: Awards ceremony  
 4:30 pm: DataFest concludes  
