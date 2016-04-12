@@ -11,7 +11,7 @@ All events are to be held in [Weniger Hall](http://oregonstate.edu/campusmap/?lo
 
 ### Friday, April 15th
 6:30 pm: Doors open   
-7:30 pm: Welcome and Orientation session and the reveal of the data set   
+7:00 pm: Welcome and Orientation session and the reveal of the data set   
 9 pm: Workshop One: dplyr by Kalbi Zongo  
 midnight: DataFest closes its doors for the night.  
 
