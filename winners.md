@@ -49,7 +49,7 @@ Thank you to everyone who helped with the event!
 
 **Co-organizers**: Charlotte Wickham & Andrew Bray
 
-**Helpers**: Shivani Patel, Rain Wang, Trevor Ruiz, Dan Claborne, Heather Kitada, Shaoshan Liao, Karin Kralicek, Caley Johns, Jeremy Groom, Joel Gorder, Megan (Chenxiao) Hu, Chris Skypeck and Tony Reyna
+**Helpers**: Shivani Patel, Rain Wang, Trevor Ruiz, Dan Claborne, Heather Kitada, Shaoshan Liao, Karin Kralicek, Caley Johns, Jeremy Groom, Joel Gorder, Megan (Chenxiao) Hu, Kyle Hirata and Tony Reyna
 
 **Graduate student consultants**: Mike Dumelle, Sam Engle, Chris Wolf, Miao Yang, Ben Brintz, Si Liu, Matt Higham and Kalbi Zongo
 
